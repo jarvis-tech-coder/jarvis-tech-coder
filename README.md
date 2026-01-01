@@ -59,7 +59,7 @@
 ---
 
 ##  Connect With Me
-- LinkedIn: https://linkedin.com/in/mohdashad-999  
+- LinkedIn: https://linkedin.com/in/mohd-ashad999  
 - GitHub: https://github.com/jarvis-tech-coder  
 - Email: mohdashad154@gmail.com  
 
